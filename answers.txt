@@ -8,4 +8,9 @@ Q2: What field could data science be applied to? Give an Example.
 
 Answer: Machine Learning, creating a table of all runs that are performed
 
+Q3: What is the difference between Merging and Rebasing?
+
+Answer: merging joins branches together, rebasing reapplies commits onto another 
+branch
+
 
