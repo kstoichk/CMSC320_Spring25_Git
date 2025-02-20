@@ -1,0 +1,4 @@
+Q1: Why might we consider using Git?
+
+Answer: For easy quality control and in order to keep different versions of projects, 
+and it helps a lot for collaboration.
